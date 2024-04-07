@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/l1IB22SuYeEMMPTguL/giphy.gif?cid=ecf05e477xs6wtsukw8rn83tc33dei177of7lxidnnmrci5h&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" height="40" />
+
 
 <!--
 **melissa-almeida/melissa-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
