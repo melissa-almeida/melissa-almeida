@@ -17,7 +17,6 @@ Enthusiastic about continuous learning of current trends and technologies in pro
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gl" />&nbsp;&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissa-almeida&layout=donut&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissa-almeida\&rank_icon=github&theme=vue)
 
 
